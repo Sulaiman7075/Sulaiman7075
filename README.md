@@ -29,11 +29,11 @@ Building elegant, responsive, and high-performance apps for Apple platforms.
 | Project | Description | Technologies |
 |--|--|--|
 | [**Africa App**](https://github.com/Sulaiman7075/Africa) | Data-driven wildlife app featuring JSON, MapKit, Video Player, and Gallery. Optimized for iPhone, iPad, and Mac Catalyst. | SwiftUI 2.0 · JSON · MapKit · AVKit |
-| [**Fruitus App**](https://github.com/Sulaiman7075/Fruitus) | Onboarding + fruit details with gradient visuals and nutrient data. Fully optimized for iPhone & iPad. | SwiftUI 2.0 · AppStorage · Gradients |
-| [**ToDoList App**](https://github.com/Sulaiman7075/ToDoList) | Task management app with Firebase Auth & Firestore for real-time data and login/register system. | SwiftUI · Firebase · Firestore |
-| [**Restart App**](https://github.com/Sulaiman7075/Restart) | Interactive onboarding app with parallax motion, gestures, and sound integration. | SwiftUI · Animation · AVKit |
-| [**Paws App**](https://github.com/Sulaiman7075/Paws) | Manage pet profiles (add, edit, delete) with SwiftData and grid-based layout. | SwiftUI · SwiftData |
-| [**Pinch App**](https://github.com/Sulaiman7075/Pinch) | Interactive image viewer with pinch/zoom gestures and SwiftUI Material effects. | SwiftUI · Gestures · SF Symbols |
+| [**Touchdown App**](https://github.com/Sulaiman7075/Touchdown) | Complete SwiftUI E-Commerce prototype with custom navigation, JSON decoding, and adaptive grid layout. | SwiftUI 2.0 · MVVM · JSON |
+| [**Devote App**](https://github.com/Sulaiman7075/Devote) | Task management app powered by Core Data, AppStorage, and widgets for iPhone & iPad. | SwiftUI · Core Data · WidgetKit |
+| [**ToDoList App**](https://github.com/Sulaiman7075/ToDoList) | Task management app with Firebase Authentication & Firestore for real-time data storage. | SwiftUI · Firebase · Firestore |
+| [**Fruitus App**](https://github.com/Sulaiman7075/Fruitus) | Onboarding + fruit details with gradient visuals, nutrient data, and iPhone/iPad optimization. | SwiftUI 2.0 · AppStorage · Gradients |
+
 
 ---
 
