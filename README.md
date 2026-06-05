@@ -3,7 +3,7 @@
 **Flutter & iOS/Android Mobile Developer**
 Lahore, Pakistan · sulaimanhassanb@gmail.com
 
-[LinkedIn](https://www.linkedin.com/in/sulaiman-hassan-9b6aab405/) · [GitHub](https://github.com/Sulaiman7075) · [Play Store](https://play.google.com/store/apps/details?id=com.wandercode.qiblafinder)
+[LinkedIn](https://www.linkedin.com/in/sulaiman-hassan-9b6aab405/) · [Play Store](https://play.google.com/store/apps/details?id=com.wandercode.qiblafinder)
 
 ---
 
